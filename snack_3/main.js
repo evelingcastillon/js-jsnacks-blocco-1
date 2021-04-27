@@ -11,9 +11,9 @@ var n10 = parseInt(prompt("Inserire numero 10"));
  */
 //var somma = n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8 + n9 + n10
 
-somma = 0
+var somma = 0
 
-for ( var i = 0; i < 9; i++ ){
+for ( var i = 0; i < 10; i++ ){
     var n = parseInt(prompt("Inserire numero"));
     var somma = somma + n
 }
