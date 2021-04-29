@@ -1,3 +1,6 @@
+//Il software deve chiedere per 10 volte all’utente di inserire un numero.
+//Il programma stampa la somma di tutti i numeri inseriti.
+
 /* var n1 = parseInt(prompt("Inserire numero 1"));
 var n2 = parseInt(prompt("Inserire numero 2"));
 var n3 = parseInt(prompt("Inserire numero 3"));
